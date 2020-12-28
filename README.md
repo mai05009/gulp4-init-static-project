@@ -2,14 +2,14 @@
 使用gulp4初始化静态项目  
 目录结构：  
 --项目名  
-  --dist    //编译后目录  
-  --lib     //插件、框架像JQ，bootstrap  
-  +--src    //静态文件目录  
-    --css    //scss  
-    --img  
-    --js  
-  --test    //本地运行文件，用于实时预览  
-  --view   //存放静态.html  
+&nbsp;&nbsp;--dist    //编译后目录  
+&nbsp;&nbsp;--lib     //插件、框架像JQ，bootstrap  
+&nbsp;&nbsp;+--src    //静态文件目录  
+&nbsp;&nbsp;&nbsp;&nbsp;--css    //scss  
+&nbsp;&nbsp;&nbsp;&nbsp;--img  
+&nbsp;&nbsp;&nbsp;&nbsp;--js  
+&nbsp;&nbsp;--test    //本地运行文件，用于实时预览  
+&nbsp;&nbsp;--view   //存放静态.html  
   
 项目使用gulp4，  
 完成热加载，代理，gulp-file-include，  
