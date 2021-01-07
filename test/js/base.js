@@ -1,1 +1,0 @@
-"use strict";var BASE_URL="/dev-api";
