@@ -13,6 +13,8 @@
   
 项目使用gulp4，  
 完成热加载，代理，gulp-file-include，  
-cnpm i初始化后，运行npm run dev即可预览效果。  
+cnpm i初始化后，运行npm run dev即可预览效果,
+
+添加lib文件后需要重新运行npm run dev
 
 
